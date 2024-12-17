@@ -1,7 +1,7 @@
 # Pulse AI
 ## Personal Health Assistant Chatbot
 
-This is a Flutter-based Personal Health Assistant application that allows users to chat with an AI healthcare assistant. Users can describe their symptoms, ask health-related questions, and receive AI-generated responses.  The backend is built using FastAPI, AutoGen, and OpenAI to provide intelligent responses and healthcare suggestions.
+This is a Flutter-based Personal Health Assistant application that allows users to chat with an AI healthcare assistant. Users can describe their symptoms, ask health-related questions, and receive AI-generated responses.  The backend is built using Flask, AutoGen, and OpenAI to provide intelligent responses and healthcare suggestions.
 
 ## Features
 
